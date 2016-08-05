@@ -5,19 +5,17 @@ _**Current Version = Alpha v. 1.0**_
 
 ## Languages Written For:
 * (Alpha version 1.0) - Java  
-* (Alpha version 1.1) - Java, C#, Python (3.x)  
-* (Alpha version 1.2) - Java, C#, Python (3.x), C++  
-* (Alpha version 1.3) - Java, C#, Python (3.x), C++, C
+* (Alpha version 1.1) - Java + C#, Python (3.x), C  
+* (Alpha version 1.2) - Java, C#, Python (3.x), C + C++
 
 ### GUI Planned Features
-1.1 = build C# classes (non-partial) + C# interfaces, and Python (3.x) classes  
-1.2 = build C++ classes, and C++ abstract (pure virtual methods [=0])  
-1.3 = build C structs
+1.1 = build C# classes (non-partial) + C# interfaces, C structs, and Python (3.x) classes  
+1.2 = build C++ classes, and C++ abstract (pure virtual methods [=0])
 
 ### Command Line Planned Features
-1.4 = build C# classes (partials included) + C# interfaces, and Python (3.x) classes  
-1.5 = build C structs  
-1.6 = build C++ classes, and C++ abstract (pure virtual methods [=0])
+1.3 = build C# classes (partials included) + C# interfaces, and Python (3.x) classes  
+1.4 = build C structs  
+1.5 = build C++ classes, and C++ abstract (pure virtual methods [=0])
 
 #
 ## Command Line
