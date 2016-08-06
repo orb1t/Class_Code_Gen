@@ -33,6 +33,7 @@ public final class UniqueClass
    */
    private UniqueClass(){this.count++;}
    
+   /*chaining of constructors to make a fully loaded new instance */
    private UniqueClass(String someName)
    {
       this();
