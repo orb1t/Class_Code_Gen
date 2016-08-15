@@ -28,5 +28,5 @@ The GUI for the CCG application is designed for basic class specs as required pe
 ### Other Details
 **Author Name**:  Travis Mitchum  
 **Date of Authoring**:  August 3, 2016  
-**Last Update On**:  Aug. 5, 2016  
+**Last Update On**:  Aug. 15, 2016  
 _**(author contact info may be obtained through message via their profile)**_
