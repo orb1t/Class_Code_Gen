@@ -4,18 +4,36 @@ The Class Code Generator (CCG) is an application that can automate [some] work f
 _**Current Version = Alpha v. 1.0**_
 
 ## Languages Written For:
-* (Alpha version 1.0) - Java  
-* (Alpha version 1.1) - Java + C#, Python (3.x), C  
-* (Alpha version 1.2) - Java, C#, Python (3.x), C + C++
+* (Alpha version 1.0) - Java [Ui]
+* (Alpha version 1.1.0) - Java + C#, Python (3.x), C [Ui]
+* (Alpha version 1.1.1) - Java, C#, Python (3.x), C + C++ [Ui]
+* (Alpha version 1.1.2) - Java, C#, Python (3.x), C, C++ + Xamarin C# (Android, iPhone, Windows) [Ui]
+* (Alpha version 1.2.0) - Java, C#, Python (3.x), C, C++ [Console]
+* (Alpha version 1.2.1) - Java, C#, Python (3.x), C, C++ + Xamarin C# (Android, iPhone, Windows) [Console]
+* (Alpha version 1.3) - Java, C#, Python (3.x), C, C++, Xamarin C# (Android, iPhone, Windows) + HTML5, CSS3, JavaScript=JS [Ui]
+* (Alpha version 1.3.1) - ver.1.3 [Console]
+* (Alpha version 1.3.2) - ver.1.3 + jQuery, AngularJS, React, Meteor, Bootstrap, Node, Ember, Backbone, Vue, ProcessingJS, Polymer, D3JS, Knockout [Ui]
+* (Alpha version 1.3.3) - ver.1.3.2 + LESS, SASS, Foundation, PHP7, MySQL [Ui]
+* (Alpha version 1.3.4) - ver.1.3.3 + YAML, Siimple, Modest Grid, Responsive Grid System, Material Framework, Leaf, Materialize, Essence, Turret, Concise CSS, MontageJS, HTML5 Boilterplate, Skeleton [Ui]
+* (Alpha version 1.3.5) - ver.1.3.2 - .3.4 [Console] + Ruby, Ruby on Rails [Ui, Console]
+* (Alpha version 1.4) - Scheme, Fortran98, D, MATLAB, LISP, PL/SQL, F#, [Ui]
+* (Alpha version 1.4.1) - ver1.4 + Perl, R, Objective-C, Erlang, OCaml, Groovy [Ui]
+* (Alpha version 1.4.2) - ver1.4.1 + Scala, CoffeScript, Haskell, Julia, Swift, XML, XSLT [Ui]
+* (Alpha version 1.4.3) - ver1.4 - .4.2 [Console] + Clojure [Ui, Console]
+* (Alpha version 1.4.4) - ver.1.4.3 + Ada, BASIC, COBOL, Delphi, Lua [Ui]
+* (Alpha version 1.4.5) - ver.1.4.4 + Pascal, PEARL, Prolog, Racket [Ui]
+* (Alpha version 1.4.6) - ver.1.4.5 + Smalltalk, Unreal Engine Script, Unity Engine C# Script [Ui]
+* (Alpha version 1.4.7) - ver.1.4.6 [Console] + Golang [Ui, Console]
+
 
 ### GUI Planned Features
-1.1 = build C# classes (non-partial) + C# interfaces, C structs, and Python (3.x) classes  
-1.2 = build C++ classes, and C++ abstract (pure virtual methods [=0])
+1.1.0 = build C# classes (non-partial) + C# interfaces, C structs, and Python (3.x) classes  
+1.1.1 = build C++ classes, and C++ abstract (pure virtual methods [=0])
+1.1.2 = build common data structures, unit tests, import modules, and support plugin development for Xamarin-Android/iPhone/Windows
 
 ### Command Line Planned Features
-1.3 = build C# classes (partials included) + C# interfaces, and Python (3.x) classes  
-1.4 = build C structs  
-1.5 = build C++ classes, and C++ abstract (pure virtual methods [=0])
+1.2.0 = build C# classes (non-partial + partials) + interfaces, and Python (3.x) classes,  C++ classes, and C++ abstract (pure virtual methods [=0]), and C structs
+1.2.1 = build Xamarin C# files for Android, iPhone, Windows devices, create plugins for Xamarin environment
 
 #
 ## Command Line
@@ -28,5 +46,5 @@ The GUI for the CCG application is designed for basic class specs as required pe
 ### Other Details
 **Author Name**:  Travis Mitchum  
 **Date of Authoring**:  August 3, 2016  
-**Last Update On**:  Aug. 15, 2016  
+**Last Update On**:  March 14, 2017  
 _**(author contact info may be obtained through message via their profile)**_
