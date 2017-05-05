@@ -14,16 +14,16 @@ _**Current Version = Alpha v. 1.0**_
 * (Alpha version 1.3.1) - ver.1.3 [Console]
 * (Alpha version 1.3.2) - ver.1.3 + jQuery, AngularJS, React, Meteor, Bootstrap, Node, Ember, Backbone, Vue, ProcessingJS, Polymer, D3JS, Knockout [Ui]
 * (Alpha version 1.3.3) - ver.1.3.2 + LESS, SASS, Foundation, PHP7, MySQL [Ui]
-* (Alpha version 1.3.4) - ver.1.3.3 + YAML, Siimple, Modest Grid, Responsive Grid System, Material Framework, Leaf, Materialize, Essence, Turret, Concise CSS, MontageJS, HTML5 Boilterplate, Skeleton [Ui]
+* (Alpha version 1.3.4) - ver.1.3.3 + YAML, Siimple [Ui]
 * (Alpha version 1.3.5) - ver.1.3.2 - .3.4 [Console] + Ruby, Ruby on Rails [Ui, Console]
 * (Alpha version 1.4) - Scheme, Fortran98, D, MATLAB, LISP, PL/SQL, F#, [Ui]
 * (Alpha version 1.4.1) - ver1.4 + Perl, R, Objective-C, Erlang, OCaml, Groovy [Ui]
-* (Alpha version 1.4.2) - ver1.4.1 + Scala, CoffeScript, Haskell, Julia, Swift, XML, XSLT [Ui]
+* (Alpha version 1.4.2) - ver1.4.1 + Scala, CoffeScript, Haskell, Julia, Swift, XML [Ui]
 * (Alpha version 1.4.3) - ver1.4 - .4.2 [Console] + Clojure [Ui, Console]
 * (Alpha version 1.4.4) - ver.1.4.3 + Ada, BASIC, COBOL, Delphi, Lua [Ui]
 * (Alpha version 1.4.5) - ver.1.4.4 + Pascal, PEARL, Prolog, Racket [Ui]
 * (Alpha version 1.4.6) - ver.1.4.5 + Smalltalk, Unreal Engine Script, Unity Engine C# Script [Ui]
-* (Alpha version 1.4.7) - ver.1.4.6 [Console] + Golang [Ui, Console]
+* (Alpha version 1.4.7) - ver.1.4.6 [Console]
 
 
 ### GUI Planned Features
