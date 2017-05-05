@@ -22,8 +22,7 @@ _**Current Version = Alpha v. 1.0**_
 * (Alpha version 1.4.3) - ver1.4 - .4.2 [Console] + Clojure [Ui, Console]
 * (Alpha version 1.4.4) - ver.1.4.3 + Ada, BASIC, COBOL, Delphi, Lua [Ui]
 * (Alpha version 1.4.5) - ver.1.4.4 + Pascal, PEARL, Prolog, Racket [Ui]
-* (Alpha version 1.4.6) - ver.1.4.5 + Smalltalk, Unreal Engine Script, Unity Engine C# Script [Ui]
-* (Alpha version 1.4.7) - ver.1.4.6 [Console]
+* (Alpha version 1.4.6) - ver.1.4.5 + Smalltalk [Ui, Console]
 
 
 ### GUI Planned Features
