@@ -14,7 +14,7 @@ _**Current Version = Alpha v. 1.0**_
 * (Alpha version 1.3.1) - ver.1.3 [Console]
 * (Alpha version 1.3.2) - ver.1.3 + jQuery, AngularJS, React, Meteor, Bootstrap, Node, Ember, Backbone, Vue, ProcessingJS, Polymer, D3JS, Knockout [Ui]
 * (Alpha version 1.3.3) - ver.1.3.2 + LESS, SASS, Foundation, PHP7, MySQL [Ui]
-* (Alpha version 1.3.4) - ver.1.3.3 + YAML, Siimple [Ui]
+* (Alpha version 1.3.4) - ver.1.3.3 + YAML [Ui]
 * (Alpha version 1.3.5) - ver.1.3.2 - .3.4 [Console] + Ruby, Ruby on Rails [Ui, Console]
 * (Alpha version 1.4) - Scheme, Fortran98, D, MATLAB, LISP, PL/SQL, F#, [Ui]
 * (Alpha version 1.4.1) - ver1.4 + Perl, R, Objective-C, Erlang, OCaml, Groovy [Ui]
